@@ -7,5 +7,5 @@ ID: 000543293 y 000550158
 
 [Video_programacion](https://drive.google.com/file/d/1yT1t_211xrPoozZYlYpHoVekmujURpYW/view?usp=sharing)
 
-Todo el codigo se encuentra en un archivo llamado menu.py en la carpeta src.
+Todo el codigo se encuentra en un archivo llamado menu.py dentro de la carpeta src.
 ---
