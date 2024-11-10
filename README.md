@@ -2,7 +2,7 @@
 # Unidad 
 ---
 ## Documentación del proyecto
-Nombres: Marie Alejandra Amaya Mendez y Ana Sofía Henao Agudelo  
+Nombres: Marie Alejandra Amaya Mendez y Ana Sofía Henao Agudelo.
 ID: 000543293 y 000550158
 
 [Video_programacion](https://drive.google.com/file/d/1yT1t_211xrPoozZYlYpHoVekmujURpYW/view?usp=sharing)
