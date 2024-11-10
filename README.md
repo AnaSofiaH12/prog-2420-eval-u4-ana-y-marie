@@ -3,5 +3,8 @@
 ---
 ## Documentación del proyecto
 Nombres: Marie Alejandra Amaya Mendez y Ana Sofía Henao Agudelo  
-ID:  
+ID: 000543293 y 000550158
+
+[Video_programacion](https://drive.google.com/file/d/1yT1t_211xrPoozZYlYpHoVekmujURpYW/view?usp=sharing)
+Todo el codigo se encuentra en un archivo llamado menu.py en la carpeta src.
 ---
